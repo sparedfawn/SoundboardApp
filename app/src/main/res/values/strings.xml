@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Bozy Soundboard</string>
+
+    <string name="main_label">Soundboard Citek and Friends</string>
+
+    <string-array name="soundNames">
+        <item>Actually fakty</item>
+        <item>Amha</item>
+        <item>Amha rejemcted</item>
+        <item>Big Brain Brothers</item>
+        <item>Big Brain Time</item>
+        <item>Citek moment</item>
+        <item>Crimge</item>
+        <item>Czy ty mozesz?</item>
+        <item>Depremsja</item>
+        <item>Dobre pomaranczowe</item>
+        <item>Julka moment</item>
+        <item>Karasiuk</item>
+        <item>Karzel</item>
+        <item>Kebabwe</item>
+        <item>Komtuzja</item>
+        <item>Na morza dnie</item>
+        <item>Papryka</item>
+        <item>Polak robak</item>
+        <item>Polak rodak</item>
+        <item>Potramfie tylko zawomdzic</item>
+        <item>Rabarbar</item>
+        <item>Rejemcted</item>
+        <item>Skad to zwatpienie</item>
+        <item>Szymon Cieply</item>
+        <item>Udajesz?</item>
+        <item>Weebledon</item>
+        <item>Yone Ahonen</item>
+        <item>Zdziadziales</item>
+    </string-array>
+
+    <string name="action_send">Share</string>
+
+    <string name="action_ringtone">Save as...</string>
+    <string name="action_favourite">Add to favourites</string>
+    <string name="action_removeFavourite">Remove from favourites</string>
+
+    <string name="action_favourite_show">Favourites</string>
+    <string name="action_favourite_hide">Backward</string>
+
+</resources>
